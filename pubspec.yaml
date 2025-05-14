@@ -1,0 +1,17 @@
+name: shop_app_flutter
+description: A Flutter e-commerce app.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
